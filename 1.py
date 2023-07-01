@@ -1,10 +1,14 @@
-a = int(420) #Integer
-b = "Subscribe to letscreatenew" #String
-c = 420 #Integer
-d = str("Subscribe to letscreatenew") #String
-print(a)
-print(b)
-print(c)
-print(d)
-#Guido Van Rossum 1991
-print("Hello World")
+myvar = "meet"
+my_var = "bhuva"
+_my_var = "marwadi"
+myVar = "university"
+MYVAR = "5th"
+myvar2 = "Sem"
+#illegal ways of deriving python name
+"""
+2myvar = "its"
+my-var = "an"
+my var = "error"
+"""
+
+print(myvar, my_var, _my_var, myVar, MYVAR, myvar2)
